@@ -12,3 +12,18 @@ C:\Users\kan\Education material\NotRunescape\NotRunescape\obj\Debug\net10.0\refi
 C:\Users\kan\Education material\NotRunescape\NotRunescape\obj\Debug\net10.0\NotRunescape.pdb
 C:\Users\kan\Education material\NotRunescape\NotRunescape\obj\Debug\net10.0\NotRunescape.genruntimeconfig.cache
 C:\Users\kan\Education material\NotRunescape\NotRunescape\obj\Debug\net10.0\ref\NotRunescape.dll
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\bin\Debug\net10.0\NotRunescape.exe
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\bin\Debug\net10.0\NotRunescape.deps.json
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\bin\Debug\net10.0\NotRunescape.runtimeconfig.json
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\bin\Debug\net10.0\NotRunescape.dll
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\bin\Debug\net10.0\NotRunescape.pdb
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.AssemblyInfoInputs.cache
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.AssemblyInfo.cs
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.sourcelink.json
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.dll
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\refint\NotRunescape.dll
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.pdb
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\NotRunescape.genruntimeconfig.cache
+C:\Users\david\Documents\CSharp\not-runescape\NotRunescape\obj\Debug\net10.0\ref\NotRunescape.dll

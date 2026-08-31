@@ -5,10 +5,20 @@ var bossLogs = new List<BossLog>();
 var player = new Player();
 
 Console.WriteLine("=== OSRS Boss & Combat Tracker ===");
+int DropCounter = 0;
 
+Console.WriteLine("Name:\n");
+string name = Console.ReadLine();
+while (name == null || name.Trim().Length == 0)
+{
+    Console.Write("Name cannot be empty");
+    Console.Write("Name: \n");
+    name = Console.ReadLine();
+}
+Console.Write($"Hello {name}");
 while (true)
 {
-    Console.WriteLine($"\n[HP: {player.CurrentHp}/{player.MaxHp} | Gold: {player.Gold} GP]");
+    Console.WriteLine($"\n[HP: {player.CurrentHp}/{player.MaxHp} | Gold: {player.StartingGold} GP]");
     Console.Write("[1] Log Boss Kill  [2] View Drop Log  [3] View Inventory  [4] Drop Item  [99] Fight Hill Giant  [0] Exit\nChoice: ");
     var input = Console.ReadLine()?.Trim();
 
@@ -31,6 +41,8 @@ while (true)
     else if (input == "2")
     {
         Console.WriteLine("\n--- Drop Log ---");
+        DropCounter++;
+        Console.WriteLine($"Numbers of Dropped: {DropCounter}.");
         if (bossLogs.Count == 0) Console.WriteLine("No drops logged yet!");
         for (int i = 0; i < bossLogs.Count; i++)
         {
@@ -46,6 +58,10 @@ while (true)
     else if (input == "4")
     {
         HandleDropItem(player);
+    }
+    else if (input == "5")
+    {
+        player.CurrentHp = player.MaxHp;
     }
     else if (input == "99")
     {
